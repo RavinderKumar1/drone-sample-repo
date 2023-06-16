@@ -8,5 +8,5 @@ steps:
   commands:
   - echo hello
   - echo world
-  - sleep 71
+  - sleep 72
   - ps
